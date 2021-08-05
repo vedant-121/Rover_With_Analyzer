@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72d6ae60-535b-4793-93c9-ab8b273b4211" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vGPXAtIgqKAS4CVusZHQjURV39" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Programs/Rover_with_analyzer" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\rover" />
+      <recent name="F:\rover\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\rover\analyzedResult" />
+      <recent name="F:\rover\sample_images" />
+      <recent name="F:\rover" />
+      <recent name="F:\rover\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.single_gui">
+    <configuration name="init" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rover" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/init.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="single_gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rover" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/single_gui.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="texture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rover" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/texture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.single_gui" />
+        <item itemvalue="Python.texture" />
+        <item itemvalue="Python.init" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\vedant\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72d6ae60-535b-4793-93c9-ab8b273b4211" name="Default Changelist" comment="" />
+      <created>1626185489871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626185489871</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="60" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626186225752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="60" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1626186225752" />
+    <state x="436" y="100" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1626188774728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="100" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1626188774728" />
+    <state x="883" y="113" key="FileChooserDialogImpl" timestamp="1628163618282">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="883" y="113" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628163618282" />
+    <state x="573" y="289" width="420" height="246" key="Github.CreateGistDialog" timestamp="1628163736501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="573" y="289" width="420" height="246" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1628163736501" />
+    <state width="742" height="153" key="GridCell.Tab.0.bottom" timestamp="1628165591508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="742" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1628165591508" />
+    <state width="742" height="153" key="GridCell.Tab.0.center" timestamp="1628165591508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="742" height="153" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1628165591508" />
+    <state width="742" height="153" key="GridCell.Tab.0.left" timestamp="1628165591508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="742" height="153" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1628165591508" />
+    <state width="742" height="153" key="GridCell.Tab.0.right" timestamp="1628165591508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="742" height="153" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1628165591508" />
+    <state width="1509" height="246" key="GridCell.Tab.1.bottom" timestamp="1626726180247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="246" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1626726180247" />
+    <state width="1509" height="246" key="GridCell.Tab.1.center" timestamp="1626726180247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="246" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1626726180247" />
+    <state width="1509" height="246" key="GridCell.Tab.1.left" timestamp="1626726180247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="246" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1626726180247" />
+    <state width="1509" height="246" key="GridCell.Tab.1.right" timestamp="1626726180247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="246" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1626726180247" />
+    <state x="401" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1628162811531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="401" y="195" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1628162811531" />
+    <state x="490" y="-1" key="search.everywhere.popup" timestamp="1626710090669">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="-1" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1626710090669" />
+    <state x="561" y="155" key="svn.repositoryBrowser" timestamp="1628163488588">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="561" y="155" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1628163488588" />
+    <state x="521" y="137" key="svn4idea.import.options" timestamp="1628163485703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="521" y="137" key="svn4idea.import.options/0.0.1536.824@0.0.1536.824" timestamp="1628163485703" />
+  </component>
+</project>
