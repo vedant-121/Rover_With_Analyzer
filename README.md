@@ -16,17 +16,32 @@ The Canny edge detector is an edge detection operator that uses a multi-stage al
 
 ## Screenshots
 ### GUI
-Window-1 (Rover-Controller)
-![App Screenshot](https://github.com/vedant-121/rower_with_analyzer/blob/main/screenshots/window1.png?raw=true)
 
-Window-2 (Analyzer)
-![App Screenshot](https://github.com/vedant-121/rower_with_analyzer/blob/main/screenshots/window2.png?raw=true)
 
-### Images to analyze
-![App Screenshot](https://github.com/vedant-121/rower_with_analyzer/blob/main/screenshots/imgToAnalyze.JPG?raw=true)
+<table>
 
-### Analyzed image
-![App Screenshot](https://github.com/vedant-121/rower_with_analyzer/blob/main/screenshots/result.png?raw=true)
+  <tr>
+    <td valign="top"><img src="/screenshots/window1.png?raw=true"  width="500" height="300"></td>
+   
+  <td valign="top"><img src="/screenshots/window2.png?raw=true"  width="500" height="300"></td>
+
+ </tr>
+ 
+  <tr>
+    <td valign="top"><img src="/screenshots/imgToAnalyze.JPG?raw=true"  width="500" height="300"></td>
+  <td valign="top"><img src="/screenshots/result.png?raw=true"  width="500" height="300"></td>
+ </tr>
+ 
+ </table>
+
+
+
+
+
+
+
+
+
 
 ## License
 
