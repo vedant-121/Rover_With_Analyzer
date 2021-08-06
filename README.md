@@ -21,15 +21,19 @@ The Canny edge detector is an edge detection operator that uses a multi-stage al
 <table>
 
   <tr>
-    <td valign="top"><img src="/screenshots/window1.png?raw=true"  width="500" height="300"></td>
+    <td valign="top"><img src="/screenshots/window1.png?raw=true"  width="500" height="300">
+  <figcaption>Window-1 (Controller)</figcaption></td>
    
-  <td valign="top"><img src="/screenshots/window2.png?raw=true"  width="500" height="300"></td>
+  <td valign="top"><img src="/screenshots/window2.png?raw=true"  width="500" height="300">
+    <figcaption>Window-2 (Analyzer)</figcaption></td>
 
- </tr>
+  </tr>
  
   <tr>
-    <td valign="top"><img src="/screenshots/imgToAnalyze.JPG?raw=true"  width="500" height="300"></td>
-  <td valign="top"><img src="/screenshots/result.png?raw=true"  width="500" height="300"></td>
+    <td valign="top"><img src="/screenshots/imgToAnalyze.JPG?raw=true"  width="500" height="300">
+    <figcaption>Objects to analyze</figcaption></td>
+  <td valign="top"><img src="/screenshots/result.png?raw=true"  width="500" height="300">
+    <figcaption>Analyzed objects</figcaption></td>
  </tr>
  
  </table>
